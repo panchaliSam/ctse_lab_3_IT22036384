@@ -38,3 +38,7 @@ This project implements a simple Spring Boot microservice with CRUD REST APIs, a
 
 ## Expected Outcome
 Build a Spring Boot microservice with REST APIs, use an in-memory database, and document APIs using Swagger.
+
+![img.png](img.png)
+
+![Swagger-UI.png](Swagger-UI.png)
